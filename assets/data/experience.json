@@ -1,0 +1,103 @@
+[
+    {
+      "name": "Software Engineer (Middle)",
+      "tech": ["Create UI", "Develop New Feature", "Code Review", "Unit Testing"],
+      "summary": "PT PLN Icon Plus",
+      "description": "A long description",
+      "isCompleted": true,
+      "links": [
+        {
+          "codeRef": "#",
+          "codeTag": "Ricky Source",
+          "liveRef": "#",
+          "liveTag": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "image.png",
+          "caption": "Screen Shot 1"
+        },
+        {
+          "src": "image.png",
+          "caption": "Screen Shot 2"
+        }
+      ]
+    },
+    {
+      "name": "Fullstack Developer",
+      "tech": ["Develop new Project in Internal Application"],
+      "summary": "Yada Ekidanta",
+      "description": "A long description",
+      "isCompleted": true,
+      "links": [
+        {
+          "codeRef": "#",
+          "codeTag": "#",
+          "liveRef": "#",
+          "liveTag": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "image.png",
+          "caption": "Screen Shot 1"
+        },
+        {
+          "src": "image.png",
+          "caption": "Screen Shot 2"
+        }
+      ]
+    },
+    {
+        "name": "Fullstack Developer Intern",
+        "tech": ["Develop New Feature" , "Code Review", "Unit Testing" , "Debugging"],
+        "summary": "Awantunai",
+        "description": "A long description",
+        "isCompleted": true,
+        "links": [
+          {
+            "codeRef": "#",
+            "codeTag": "#",
+            "liveRef": "#",
+            "liveTag": "#"
+          }
+        ],
+        "images": [
+          {
+            "src": "image.png",
+            "caption": "Screen Shot 1"
+          },
+          {
+            "src": "image.png",
+            "caption": "Screen Shot 2"
+          }
+        ]
+      },
+    {
+      "name": "Backend Engineer Intern",
+      "tech": ["Develop New Feature" , "Code Review", "Unit Testing"],
+      "summary": "Yayasan Anak Bangsa Bisa (GoTo)",
+      "description": "A long description",
+      "isCompleted": true,
+      "links": [
+        {
+          "codeRef": "#",
+          "codeTag": "#",
+          "liveRef": "#",
+          "liveTag": "#"
+        }
+      ],
+      "images": [
+        {
+          "src": "image.png",
+          "caption": "Screen Shot 1"
+        },
+        {
+          "src": "image.png",
+          "caption": "Screen Shot 2"
+        }
+      ]
+    }
+  ]
+  

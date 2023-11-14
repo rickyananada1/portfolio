@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Del Programming Club",
+    "tech": ["React", "Firebase"],
+    "tech2": ["2022"],
+    "summarry": "Institut Teknologi Del Programming Club is a student organization that focuses on developing the skills of its members in the field of programming.",
+    "isCompleted": true,
+    "links": [
+      {
+        "codeRef": "https://github.com/Nodet-org/Sahaay",
+        "codeTag": "Sahaay UI Source Code",
+        "liveRef": "https://sahaay.xyz",
+        "liveTag": "Visit Sahaay Website"
+      },
+      {
+        "codeRef": "https://github.com/Nodet-org/Sahaay-API",
+        "codeTag": "Sahaay API Source Code",
+        "liveRef": "https://covid-resource.azurewebsites.net/",
+        "liveTag": "Visit Sahaay API"
+      }
+    ],
+    "images": [
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 1"
+      },
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 2"
+      }
+    ]
+  },
+  {
+    "name": "Komisi Pemilihan Umum IT Del",
+    "tech": ["MongoDB", "Express", "React", "Nodejs"],
+    "tech2": ["2022"],
+    "summarry": "Komisi Pemilihan Umum IT Del is a student organization that focuses to choose the Lead for Student Executive Board representatives in IT Del.",
+    "links": [
+      {
+        "codeRef": "https://github.com/No-det/DrChrome-Client",
+        "codeTag": "DrChrome UI Source Code",
+        "liveRef": "javascript:void(0);",
+        "liveTag": "NA"
+      },
+      {
+        "codeRef": "https://github.com/No-det/DrChrome-API",
+        "codeTag": "DrChrome API Source Code",
+        "liveRef": "javascript:void(0);",
+        "liveTag": "NA"
+      }
+    ],
+    "images": [
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 1"
+      },
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 2"
+      }
+    ]
+  },
+  {
+    "name": "Student Executive Board IT Del",
+    "tech": ["Nodejs", "Express", "MongoDB", "EJS"],
+    "tech2": ["2021"],
+    "summarry": "Student Executive Board IT Del is a student organization that focuses on developing the oganization of IT Del and inspiring the students to be more creative.",
+    "isCompleted": true,
+    "links": [
+      {
+        "codeRef": "https://github.com/No-det/e-Xhibyte",
+        "codeTag": "eXhibyte Source Code",
+        "liveRef": "javascript:void(0);",
+        "liveTag": "NA"
+      }
+    ],
+    "images": [
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 1"
+      },
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 2"
+      }
+    ]
+  },
+  {
+    "name": "Panitia Cinta Almamater IT Del",
+    "tech": ["Nodejs", "Express", "MongoDB", "EJS"],
+    "tech2": ["2021"],
+    "summarry": "Panitia Cinta Almamater IT Del is a student organization that focuses on developing the character of its members and inspiring the new students for their college life.",
+    "isCompleted": true,
+    "links": [
+      {
+        "codeRef": "https://github.com/No-det/e-Xhibyte",
+        "codeTag": "eXhibyte Source Code",
+        "liveRef": "javascript:void(0);",
+        "liveTag": "NA"
+      }
+    ],
+    "images": [
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 1"
+      },
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 2"
+      }
+    ]
+  }
+]

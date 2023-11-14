@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Dolok Library",
+    "tech": ["Golang", "Springboot","Flutter", "React", "PostgreSQL"],
+    "summary": "A library management system web",
+    "description": "A long description",
+    "isCompleted": true,
+    "links": [
+      {
+        "codeRef": "#",
+        "codeTag": "Ricky Source",
+        "liveRef": "#",
+        "liveTag": "#"
+      }
+    ],
+    "images": [
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 1"
+      },
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 2"
+      }
+    ]
+  },
+  {
+    "name": "Bajaga",
+    "tech": ["Golang","Springboot","Vue.js", "PostgreSQL"],
+    "summary": "A small Ecommerce web",
+    "description": "A long description",
+    "isCompleted": true,
+    "links": [
+      {
+        "codeRef": "#",
+        "codeTag": "#",
+        "liveRef": "#",
+        "liveTag": "#"
+      }
+    ],
+    "images": [
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 1"
+      },
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 2"
+      }
+    ]
+  },
+  {
+    "name": "Perumnas Bali Nusra",
+    "tech": ["Laravel", "PostgreSQL", "Vue"],
+    "summary": "A Housing Area Management System web",
+    "description": "A long description",
+    "isCompleted": true,
+    "links": [
+      {
+        "codeRef": "#",
+        "codeTag": "#",
+        "liveRef": "#",
+        "liveTag": "#"
+      }
+    ],
+    "images": [
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 1"
+      },
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 2"
+      }
+    ]
+  },
+  {
+    "name": "SuplaiTani",
+    "tech": ["Laravel", "MySQL", "Vue"],
+    "summary": "A small Ecommerce web",
+    "description": "A long description",
+    "isCompleted": true,
+    "links": [
+      {
+        "codeRef": "#",
+        "codeTag": "#",
+        "liveRef": "#",
+        "liveTag": "#"
+      }
+    ],
+    "images": [
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 1"
+      },
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 2"
+      }
+    ]
+  },
+  {
+    "name": "XSS Browser Extension",
+    "tech": ["LSTM Algorithm", "ML", "Javascript"],
+    "summary": "A browser Extension to detect XSS",
+    "description": "A long description",
+    "isCompleted": true,
+    "links": [
+      {
+        "codeRef": "#",
+        "codeTag": "Ricky Source",
+        "liveRef": "#",
+        "liveTag": "#"
+      },
+      {
+        "codeRef": "#",
+        "codeTag": "Ricky Source",
+        "liveRef": "#",
+        "liveTag": "#"
+      }
+    ],
+    "images": [
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 1"
+      },
+      {
+        "src": "image.png",
+        "caption": "Screen Shot 2"
+      }
+    ]
+  }
+]
