@@ -16,7 +16,9 @@
       "Kotlin",
       ".NET",
       "postgresql",
-      "MySQL"
+      "MySQL",
+      "Springboot",
+      "Golang"
     ],
     "level": "7",
     "icon": "<svg></svg>"
