@@ -20,6 +20,8 @@ class SkillCard extends HTMLElement {
       const tag13 = this.getAttribute("tag13") || "";
       const tag14 = this.getAttribute("tag14") || "";
       const tag15 = this.getAttribute("tag15") || "";
+      const tag16 = this.getAttribute("tag16") || "";
+      const tag17 = this.getAttribute("tag17") || "";
       const isCompleted = this.getAttribute("status") === "true";
   
       this.innerHTML = `
@@ -44,6 +46,8 @@ class SkillCard extends HTMLElement {
                 ${tag13 && `<span class="${tag13.toLowerCase()}">${tag13}</span>`}
                 ${tag14 && `<span class="${tag14.toLowerCase()}">${tag14}</span>`}
                 ${tag15 && `<span class="${tag15.toLowerCase()}">${tag15}</span>`}
+                ${tag16 && `<span class="${tag16.toLowerCase()}">${tag16}</span>`}
+                ${tag17 && `<span class="${tag17.toLowerCase()}">${tag17}</span>`}
             </div>
             ${isCompleted ? `<span class="status">PROD</span>` : ''}
           </div>
